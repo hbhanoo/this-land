@@ -38,7 +38,9 @@ Is this land made for you and me?
 
 ## Alternate Choruses
 
+```
 This land ain't your land, and this land ain't my land
 From the Patagonia to the Fiji Islands,
 From the Redwood Forest, to the Indian Ocean,
 This land ain't here for you and me.
+```
