@@ -33,3 +33,10 @@ In the squares of the city, In the shadow of a steeple;
 By the relief office, I'd seen my people.
 As they stood there hungry, I stood there asking,
 Is this land made for you and me?
+
+## Alternate Choruses
+
+This land ain't your land, and this land ain't my land
+From the Patagonia to the Fiji Islands,
+From the Redwood Forest, to the Indian Ocean,
+This land ain't here for you and me.
