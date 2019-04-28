@@ -1,5 +1,5 @@
 
-'''
+```
 This land ain't your land, and this land ain't my land
 From the California to the New York Island,
 From the Redwood Forest, to the Gulf stream waters,
@@ -34,7 +34,7 @@ In the squares of the city, In the shadow of a steeple;
 By the relief office, I'd seen my people.
 As they stood there hungry, I stood there asking,
 Is this land made for you and me?
-'''
+```
 
 ## Alternate Choruses
 
